@@ -1,0 +1,25 @@
+{
+  "name": "@ehnosso/twitterscrapper",
+  "version": "1.0.1",
+  "description": "Scraper Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EhNosso/youtubescraper.git"
+  },
+  "keywords": [
+    "youtube"
+  ],
+  "author": "Andre Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EhNosso/youtubescraper/issues"
+  },
+  "homepage": "https://github.com/EhNosso/youtubescraper#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
